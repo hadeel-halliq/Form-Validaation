@@ -1,0 +1,10 @@
+:root {
+  --main-color: #ef79ef;
+}
+
+body {
+  background-image: url("./images/imgOne.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Playfair Display", serif;
+}

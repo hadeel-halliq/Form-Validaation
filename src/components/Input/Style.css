@@ -1,0 +1,23 @@
+.inputClass {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    margin-bottom: 2rem;
+}
+
+.inputClass label {
+    font-weight: bold;
+    padding-bottom: 0.5rem;
+}
+
+.inputClass input {
+    padding: 0.7rem;
+    outline: none;
+    border-radius: 0.4rem;
+    border: none;
+}
+
+.inputClass input:focus {
+    border: 1px solid var(--main-color);
+}
+
